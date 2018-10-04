@@ -1,3 +1,6 @@
+KEY: Well Done!
+
+
 # Django templates reading assignment homework
 
 Please read the following article on using templates in Django: https://docs.djangoproject.com/en/2.1/ref/templates/language/
