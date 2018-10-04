@@ -6,3 +6,8 @@ Please read the following article on using templates in Django: https://docs.dja
 
 WRITE YOUR 3 ANSWERS BELOW
 
+Variables are made differently from regualar Python
+
+Filters exsit to modify Variables
+
+This is how you comment out text{# #}
